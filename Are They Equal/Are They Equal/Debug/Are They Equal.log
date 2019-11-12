@@ -1,0 +1,6 @@
+﻿  test.cpp
+h:\pat\are they equal\are they equal\test.cpp(21): warning C4018: “>”: 有符号/无符号不匹配
+h:\pat\are they equal\are they equal\test.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+h:\pat\are they equal\are they equal\test.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+  Are They Equal.vcxproj -> H:\PAT\Are They Equal\Debug\Are They Equal.exe
+  Are They Equal.vcxproj -> H:\PAT\Are They Equal\Debug\Are They Equal.pdb (Full PDB)

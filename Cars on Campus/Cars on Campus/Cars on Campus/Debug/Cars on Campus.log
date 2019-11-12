@@ -1,0 +1,5 @@
+﻿  test.cpp
+h:\pat\cars on campus\cars on campus\cars on campus\test.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+h:\pat\cars on campus\cars on campus\cars on campus\test.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+  Cars on Campus.vcxproj -> H:\PAT\Cars on Campus\Cars on Campus\Debug\Cars on Campus.exe
+  Cars on Campus.vcxproj -> H:\PAT\Cars on Campus\Cars on Campus\Debug\Cars on Campus.pdb (Full PDB)

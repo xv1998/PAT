@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\pat\kuchiguse\kuchiguse\test.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  Kuchiguse.vcxproj -> H:\PAT\Kuchiguse\Debug\Kuchiguse.exe
+  Kuchiguse.vcxproj -> H:\PAT\Kuchiguse\Debug\Kuchiguse.pdb (Full PDB)

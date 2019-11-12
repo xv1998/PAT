@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\pat\mice and rice\mice and rice\test.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  Mice and Rice.vcxproj -> H:\PAT\Mice and Rice\Debug\Mice and Rice.exe
+  Mice and Rice.vcxproj -> H:\PAT\Mice and Rice\Debug\Mice and Rice.pdb (Full PDB)

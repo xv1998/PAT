@@ -1,0 +1,5 @@
+﻿  test.cpp
+h:\pat\graduate admission\graduate admission\test.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+h:\pat\graduate admission\graduate admission\test.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+  Graduate Admission.vcxproj -> H:\PAT\Graduate Admission\Debug\Graduate Admission.exe
+  Graduate Admission.vcxproj -> H:\PAT\Graduate Admission\Debug\Graduate Admission.pdb (Full PDB)
