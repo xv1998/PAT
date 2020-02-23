@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\pat\table tennis\table tennis\test.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+  Table Tennis.vcxproj -> H:\PAT\Table Tennis\Debug\Table Tennis.exe
+  Table Tennis.vcxproj -> H:\PAT\Table Tennis\Debug\Table Tennis.pdb (Full PDB)

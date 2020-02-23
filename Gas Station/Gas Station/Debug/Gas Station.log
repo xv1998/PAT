@@ -1,0 +1,5 @@
+﻿  test.cpp
+h:\pat\gas station\gas station\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+h:\pat\gas station\gas station\test.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  Gas Station.vcxproj -> H:\PAT\Gas Station\Debug\Gas Station.exe
+  Gas Station.vcxproj -> H:\PAT\Gas Station\Debug\Gas Station.pdb (Full PDB)

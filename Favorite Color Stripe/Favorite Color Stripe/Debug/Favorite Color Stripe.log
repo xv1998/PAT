@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\pat\favorite color stripe\favorite color stripe\test.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  Favorite Color Stripe.vcxproj -> H:\PAT\Favorite Color Stripe\Debug\Favorite Color Stripe.exe
+  Favorite Color Stripe.vcxproj -> H:\PAT\Favorite Color Stripe\Debug\Favorite Color Stripe.pdb (Full PDB)

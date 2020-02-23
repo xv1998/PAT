@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\pat\linked list sorting\linked list sorting\test.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  Linked List Sorting.vcxproj -> H:\PAT\Linked List Sorting\Debug\Linked List Sorting.exe
+  Linked List Sorting.vcxproj -> H:\PAT\Linked List Sorting\Debug\Linked List Sorting.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\pat\speech patterns\speech patterns\test.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  Speech Patterns.vcxproj -> H:\PAT\Speech Patterns\Debug\Speech Patterns.exe
+  Speech Patterns.vcxproj -> H:\PAT\Speech Patterns\Debug\Speech Patterns.pdb (Full PDB)
